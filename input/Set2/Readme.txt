@@ -1,0 +1,1 @@
+service duration = 10; tau = 0.5
