@@ -2,7 +2,7 @@
 
 This repository is the code and instances for 
 
-- Zhou, H., Qin, H., Zhang, Z. *et al.* Two-echelon vehicle routing problem with time windows and simultaneous pickup and delivery. *Soft Comput* (2022). https://doi.org/10.1007/s00500-021-06712-2.
+- Zhou, H., Qin, H., Zhang, Z. *et al.* Two-echelon vehicle routing problem with time windows and simultaneous pickup and delivery. *Soft Computing* (2022). https://doi.org/10.1007/s00500-021-06712-2.
 
 Here is the abstract: 
 
